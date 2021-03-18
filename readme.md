@@ -1,6 +1,6 @@
-# Culina MS
+# CulinaMS
 
-Culina MS wants superboost everyones kitchen: manage your inventory, create mealplasn, count your calorie intake. Every kitchen related workflow at one place.
+CulinaMS wants superboost everyones kitchen: manage your inventory, create mealplans, count your calorie intake. Every kitchen related workflow at one place.
 
 ## 📚 Project Definition
 
